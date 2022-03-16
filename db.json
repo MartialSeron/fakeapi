@@ -1,0 +1,101 @@
+{
+  "scenarioResult": {
+    "state": 0,
+    "textInfos": "",
+    "timeMs": 3849,
+    "date": 1647424553914,
+    "checkResultList": {
+      "4": {
+        "state": 0,
+        "description": "validation",
+        "step": 4,
+        "textInfos": null,
+        "timeMs": 258,
+        "date": null
+      },
+      "3": {
+        "state": 0,
+        "description": "remplir formulaire",
+        "step": 3,
+        "textInfos": null,
+        "timeMs": 677,
+        "date": null
+      },
+      "2": {
+        "state": 0,
+        "description": "click avertissement imprimante ZPL",
+        "step": 2,
+        "textInfos": null,
+        "timeMs": 227,
+        "date": null
+      },
+      "1": {
+        "state": 0,
+        "description": "click sur En un clic / Préparer vos envois maintenant",
+        "step": 1,
+        "textInfos": null,
+        "timeMs": 1152,
+        "date": null
+      },
+      "0": {
+        "state": 0,
+        "description": "page mon espace",
+        "step": 0,
+        "textInfos": null,
+        "timeMs": 1535,
+        "date": null
+      }
+    },
+    "cookiesNameValueList": null,
+    "lastUrl": null,
+    "lastWindowTitle": null,
+    "sessionStorageNameValueList": null,
+    "screenshot": null,
+    "htmlContent": null,
+    "node": null,
+    "checkResultListOrd": {
+      "0": {
+        "state": 0,
+        "description": "page mon espace",
+        "step": 0,
+        "textInfos": null,
+        "timeMs": 1535,
+        "date": null
+      },
+      "1": {
+        "state": 0,
+        "description": "click sur En un clic / Préparer vos envois maintenant",
+        "step": 1,
+        "textInfos": null,
+        "timeMs": 1152,
+        "date": null
+      },
+      "2": {
+        "state": 0,
+        "description": "click avertissement imprimante ZPL",
+        "step": 2,
+        "textInfos": null,
+        "timeMs": 227,
+        "date": null
+      },
+      "3": {
+        "state": 0,
+        "description": "remplir formulaire",
+        "step": 3,
+        "textInfos": null,
+        "timeMs": 677,
+        "date": null
+      },
+      "4": {
+        "state": 0,
+        "description": "validation",
+        "step": 4,
+        "textInfos": null,
+        "timeMs": 258,
+        "date": null
+      }
+    }
+  },
+  "codeErreur": 1,
+  "texteErreur": "Un problème est survenu sur le test 'page mon espace'"
+}
